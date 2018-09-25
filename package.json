@@ -1,7 +1,7 @@
 {
-  "name": "scratch",
+  "name": "Oauth 2",
   "version": "1.0.0",
-  "description": "boilerplate for react apps",
+  "description": "oauth 2 implementation",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
@@ -17,15 +17,12 @@
     "joi": "^13.6.0",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
-    "mongoose": "^5.2.14",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "mongoose": "^5.2.14"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
     "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.17.2",
     "webpack-cli": "^3.1.0",
